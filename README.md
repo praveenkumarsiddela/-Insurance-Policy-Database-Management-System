@@ -1,7 +1,5 @@
 # Insurance-Policy-Database-Management-System
-Here's an updated version of the README file with an overview of the project:
 
----
 
 # Advanced Database Management Systems Project
 
@@ -18,6 +16,3 @@ The project involves a comprehensive approach to designing, developing, and opti
 
 The project documentation provides detailed insights into the methodologies, tools, and techniques used to achieve these objectives. The documentation is available in the repository for further reference.
 
----
-
-Feel free to adjust the content according to any specific details or requirements you have.
