@@ -1,1 +1,1 @@
-# -Insurance-Policy-Database-Management-System
+# Insurance-Policy-Database-Management-System
