@@ -1,18 +1,23 @@
-# Insurance-Policy-Database-Management-System
 
 
-# Advanced Database Management Systems Project
+# Insurance Policy Database Management System
 
 ## Overview
+This project is part of the IFT 530: Advanced Database Management Systems course (Spring 2023). It focuses on implementing advanced database concepts, including high availability, disaster recovery, performance tuning, and security.
 
-This project was undertaken as part of the IFT 530: Advanced Database Management Systems course in Spring 2023. The main objective of this project is to explore and implement advanced concepts in database management systems, focusing on high availability, disaster recovery, performance tuning, and security implementation.
+## Key Components
+- **Database Design and Architecture**: Robust and scalable database systems.
+- **High Availability and Disaster Recovery**: Resilient systems with quick recovery.
+- **Performance Tuning**: Optimized performance through indexing and query optimization.
+- **Security Implementation**: Access controls, encryption, and auditing.
 
-The project involves a comprehensive approach to designing, developing, and optimizing database systems to ensure they meet the high standards required for modern applications. Key components of the project include:
+## Files
+- `Final-Project-Submission.pdf`: Project documentation.
+- `SQL queries.sql`: SQL scripts used in the project.
 
-1. **Database Design and Architecture**: Creating a robust and scalable database architecture to support complex queries and data operations.
-2. **High Availability and Disaster Recovery**: Implementing strategies to ensure database systems are resilient and can recover quickly from failures.
-3. **Performance Tuning**: Optimizing database performance through indexing, query optimization, and other techniques.
-4. **Security Implementation**: Ensuring the database is secure from threats through proper access controls, encryption, and auditing.
-
-The project documentation provides detailed insights into the methodologies, tools, and techniques used to achieve these objectives. The documentation is available in the repository for further reference.
+## Contact
+Praveen Kumar Siddela  
+- Email: [praveenkumarsiddelaasu@gmail.com](mailto:praveenkumarsiddelaasu@gmail.com)  
+- LinkedIn: [Praveen Kumar Siddela](https://www.linkedin.com/in/praveenkumarsiddela/)  
+- Portfolio: [Praveen's Portfolio](https://praveenkumarsiddela.github.io/OnlineCV/)
 
